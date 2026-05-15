@@ -21,7 +21,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{TightLowComplexityApproximation,
-  author =        {L. Savant Aira and R. Scatamacchia and F. Della Croce},
+  author =        {L. {Savant Aira} and R. Scatamacchia and F. Della Croce},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Tight Low Complexity Approximation for the $Qm||C_{max}$ Problem via Mathematical Programming Modeling}},
   year =          {2025},
